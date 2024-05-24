@@ -1,0 +1,1 @@
+repo: https://github.com/juanpurpp/ia-pokemon/
